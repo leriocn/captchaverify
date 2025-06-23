@@ -1,0 +1,6 @@
+Flask
+requests
+Pillow
+numpy
+ddddocr
+opencv-python-headless
