@@ -47,8 +47,7 @@ This is a high-performance Web API based on Python Flask and OpenCV, designed to
 ### 2. 克隆仓库 (Clone the Repository)
 
 ```bash
-git clone https://your-repository-url.com/captcha-api.git
-cd captcha-api
+git clone
 ```
 
 ### 3. 安装依赖 (Install Dependencies)
